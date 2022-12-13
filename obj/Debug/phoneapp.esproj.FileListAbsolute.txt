@@ -1,0 +1,2 @@
+C:\Users\willt\Desktop\school book\Semester 3\csi 3150\as 4\mine 3\phoneapp\obj\Debug\phoneapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\willt\Desktop\school book\Semester 3\csi 3150\as 4\mine 3\phoneapp\obj\Debug\phoneapp.esproj.CoreCompileInputs.cache
